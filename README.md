@@ -1,3 +1,3 @@
 # ecomm-brd
 
-Live at https://dashboard.heroku.com/apps/ecomm-brd
+Live at  https://ecomm-brd.herokuapp.com/
